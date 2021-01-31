@@ -1,12 +1,11 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<title>Aniversario J y O</title>
 </head>
-<body bgcolor="#16A085">
+<body bgcolor="#0D0301">
 	<center>
 		<h1>
-			<font color="#FDFEFE ">
+			<font color="#0D0301">
 			<img src="cora.png">
 		</h1>
 		<h2>This is a very important date for me, two years ago you had the courage to ask me to be your girlfriend, from that day on you do your best to understand me, to be there for me every time I need you, you love me completely even with my defects , that's why and for thousands and thousands of other things is that I thank you love.</h2>
@@ -18,7 +17,6 @@ Never forget it love, I LOVE YOU always even though we are far away but I always
 I dedicate this song to you.
 <h2><a href="https://www.youtube.com/watch?v=7-_dzwsH2cU">Si tu supieras </a></h2>
 <a href="https://www.youtube.com/watch?v=CkEodxAugGY">Playa</a></h2>
-<img src="Flores.png">
 
 
 	</center>
